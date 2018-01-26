@@ -1,13 +1,13 @@
-#### Schritte zur Nachstellung
+### Schritte zur Nachstellung
 - 
 
-#### Erwartetes Verhalten
+### Erwartetes Verhalten
 
 
-#### Tatsächliches Verhalten
+### Tatsächliches Verhalten
 
 Eventuell Bilder (Betroffene Anzeige, Fehlermeldung, ...) einfügen.
 
-#### Hinweise
+### Hinweise
 - Das Problem tritt nur sporadisch auf.
 - Das Problem lässt sich mit Beleg Nr. XXX nachstellen.
